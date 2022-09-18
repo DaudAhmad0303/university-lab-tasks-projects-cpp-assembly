@@ -1,0 +1,830 @@
+13000     Hamid Shahid         1000                204                    78.93            Electrical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Civil Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Envoirmental Engineering
+13001     Hammad Zafar          1002                240                   81.76            Mechanical Engineering
+                                                                                           Civil Engineering
+                                                                                           Chemical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Electrical Engineering
+13002      Laiba Akbar           903                 150                  68.71            Chemical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Civil Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           
+
+13003      Hibba Waqas           870                179                   68.78            Mechanical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+
+13004      Iqra Azhar          1010                190                    78.72            Electrical Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Civil Engineering 
+                                                                                           Envoirmental Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           
+13005      Hurrairah Nadeem      902                 152                  68.8             Civil Engineering
+                                                                                           Electrical Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Mechanical Engineering
+                                                                                           Envoirmental Engineering
+
+13006      Muhammad Farhan       890                 150                  67.88            Electrical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Civil Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Automotive Engineering
+
+13007      Ahmad Hassan           992                210                   78.87           Mechanical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                                                     
+13008      Hassan Ali           965                187                   75.42             Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Civil Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Envoirmental Engineering
+
+13009      Fatima Ijaz          987                276                   83.509            Civil Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Automotive Engineering
+
+13010      Saad Ziaullah        899                140                   67.7              Chemical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Civil Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           
+13011      Imran Khan          913                171                    70.925            Automotive Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+
+13012      Nawaz Ahmad          777               156                     61.14            Electrical Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Civil Engineering 
+                                                                                           Envoirmental Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Automotive Engineering 
+
+13013      Majeed Ahmad         999               230                     80.82            Civil Engineering
+                                                                                           Electrical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+
+13014      Rana Taimoor       980                 201                    77.435            Electrical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Civil Engineering
+                                                                                           Chemical Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Automotive Engineering
+
+13015      Ahmad Shahid         920                140                    69.04            Mechanical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+
+13016	  Muhammad kamran      770                 99                    56.24             Electrical Engineering
+											   Mechanical Engineering
+											   Chemical Engineering
+											   Environmental Engineering
+											   Automotive Engineering
+											   Civil Engineering
+											   Biomedical Engineering
+
+13017     Fatima Waheed        855                 121                   65.393            Mechanical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+
+13018     Fatima Amjad         950                 145                    70.393            Civil Engineering
+                                                                                           Biomedical Engineering 
+											   Environmental Engineering
+											   Mechanical Engineering
+											   Electrical Engineering
+										           Automotive Engineering
+											   Chemical Engineering
+
+13019     Abdul qayyum         860                 129                   64.402            Electrical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Civil Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Automotive Engineering 
+											   
+13020     Fatima Nadeem        922                 170                   71.422            Civil Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Automotive Engineering
+
+13021     Rabia Zahid         988                  212                   78.772            Mechanical Engineering
+											   Electrical Engineering
+											   Civil Engineering
+                                                                                           Biomedical Engineering 
+											   Environmental Engineering
+										           Automotive Engineering
+											   Chemical Engineering
+
+13022     Anam shahid         1003                 307                   86.85227          Automotive Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+
+13023     Marwa Omer          1001                 301                   86.25             Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Civil Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Envoirmental Engineering
+
+13024     Deema Zargoon        997                  275                   84.070454        Mechanical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+
+13025     Mahnoor javaid        823                  101                   59.947          Civil Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Automotive Engineering
+
+13026     Kainat Ashraf        803                   56                    55.300          Automotive Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+
+13027     Rabia kashif         904                   286                   78.9727         Biomedical Engineering 
+									                   Automotive Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Civil Engineering
+                                                                                           Envoirmental Engineering
+
+13028      Zoha akram          935                   129                   69.175          Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Civil Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Envoirmental Engineering
+
+13029     Iram zahid           973                   112                  70.318           Civil Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Automotive Engineering
+  
+13030     Haseeba Saleem       956                  156                   72.5363          Automotive Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+          
+13031     Sara Anwar           820                   76                   57.8818          Chemical Engineering
+											   Automotive Engineering
+                                                                                           Electrical Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+
+13032     Alina Akhtar               967                   146                  72.4863          Mechanical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+
+13033     Kabir Zaheer         867                   106                  63.1227          Electrical Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Civil Engineering 
+                                                                                           Envoirmental Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Automotive Engineering 
+
+13034     Ushna Ilyas          944                   133                  70.0477          Automotive Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+
+13035     Nimal Zia               998                   246                  81.9590       Civil Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Automotive Engineering
+
+13036   Zia Nimal              945                   135                    82.5            Automotive Engineering
+                                                                                            Bimedical Engineering
+                                                                                            Chemical Engineering
+                                                                                            Electrical Engineering
+                                                                                            Mechanical Engineering
+                                                                                            Civil Engineering 
+                                                                                            Environmental Engineering 
+
+13037     Akbar Ali         889                      119                  65.41               Electrical Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Civil Engineering 
+                                                                                           Envoirmental Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Automotive Engineering 
+
+13038     Hassain Ali          822                   88                   58.9090          Automotive Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+
+13039     Omer Butt            1002                  316                  87.4636          Mechanical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+
+13040     Nazish waris         927                   166                  71.4409          Chemical Engineering
+											   Automotive Engineering
+                                                                                           Electrical Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+ 
+13041     Maria Ayyub          982                   192                  76.8909          Electrical Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Civil Engineering 
+                                                                                           Envoirmental Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Automotive Engineering
+                                                   
+13042     Umair Naeem          842                   124                  62.8818          Automotive Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+
+13043     Mahnoor Saleem       941                   176                  73.0818          Biomedical Engineering	
+											   Electrical Engineering
+											   Mechanical Engineering
+											   Chemical Engineering
+											   Envoirmental Engineering
+											   Automotive Engineering
+											   Civil Engineering
+
+13044     Nazeefa Akbar        957                   170                  73.65            Civil Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Automotive Engineering
+
+13045     Abdul Waris          990                   220                  79.5             Mechanical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+13046    Raza Samo             888                  222                   73.15            Chemical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Automotive Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Civil Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Envoirmental Engineering
+13047    Saad Zia              999                  111                   71.8             Civil Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Automotive Engineering
+13048    Baber Azam            1111                 333                   95.67            Electrical Engineering 
+                                                                                           Mechanical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Civil Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Biomedical Engineering
+13049   Nasreen Rahim          990                  250                   81.7             Chemical Engineering 
+                                                                                           Electrical Engineering 
+                                                                                           Mechanical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Civil Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Biomedical Engineering
+13050    Rahim Pardesi          750                  150                   58.9            Automotive Engineering
+                                                                                           Chemical Engineering 
+                                                                                           Electrical Engineering 
+                                                                                           Mechanical Engineering
+                                                                                           Civil Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Biomedical Engineering
+13051   Shaheen Afridi          800                  323                  75.13            Envoirmental Engineering
+                                                                                           Automotive Engineering
+                                                                                           Chemical Engineering 
+                                                                                           Electrical Engineering 
+                                                                                           Mechanical Engineering
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+13052   Irfan Junejo           1020                  320                 88.9              Mechanical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Automotive Engineering
+                                                                                           Chemical Engineering 
+                                                                                           Electrical Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Civil Engineering               
+13053   Taimor Akbar          932                   140                 69.84               Envoirmental Engineering  
+                                                                                           Mechanical Engineering
+                                                                                           Automotive Engineering
+                                                                                           Chemical Engineering 
+                                                                                           Electrical Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Civil Engineering
+13054   Shahid Afridi        1000                   200                 78.63              Mechanical Engineering
+                                                                                           Automotive Engineering
+                                                                                           Chemical Engineering 
+                                                                                           Electrical Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Civil Engineering 
+                                                                                           Envoirmental Engineering
+13055  Waqar Zaka            850                   180                 67.59               Civil Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Automotive Engineering
+                                                                                           Chemical Engineering 
+                                                                                           Electrical Engineering 
+                                                                                           Biomedical Engineering 
+                                                                                           Envoirmental Engineering
+
+
+13056     John Cena         1030                   277                    86.32           Electrical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Civil Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Envoirmental Engineering
+
+
+13057     Lionel Messi         943                 243                    78.23            Civil Engineering
+                                                                                           Chemical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Enviormental Engineering 
+                                                                                           Automotive Engineering
+
+13058     Ahsan Ali         913                    199                    73.02            Electrical Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Automotive Engineering
+                                                                                           Civil Engineering 
+                                                                                           Envoirmental Engineering
+
+13059     Farrukh Ahmed         888                145                    67.38            Biomedical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Civil Engineering 
+                                                                                           Electrical Engineering
+                                                                                           Envoirmental Engineering 
+                                                                                           Automotive Engineering
+
+13060     Virat Kohli         1018                 188                    78.88            Civil Engineering
+                                                                                           Electrical Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Chemical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Envoirmental Engineering
+
+13061     James Rooney         746                111                    55.79             Automotive Engineering
+                                                                                           Mechnical Engineering
+                                                                                           Envoimental Engineering
+                                                                                           Civil Engineering 
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Biomedical Engineering 
+                                                                                           
+13062     Iron Man         1026                243                    83.51                Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering 
+                                                                                           Automotive Engineering
+                                                                                           Envoirmental Engineering 
+                                                                                           Mechanical Engineering
+
+13063     Chris Evans         867                88                    61.77               Automotive Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Civil Engineering 
+                                                                                           Envoirmental Engineering
+                                                                                           Chemical Engineering 
+                                                                                           Biomedical Engineering
+
+13064     Pervaiz Musharaf         921                168               71.20              Electrical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Civil Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Envoirmental Engineering
+
+13065     Halime Sultan         1068                324                   92.26            Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Electriacal Engineering 
+                                                                                           Mechanical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Envoirmental Engineering
+
+13066     Hammad Azam         756                124                    57.54              Envoirmental Engineering
+                                                                                           Automotive Engineering
+                                                                                           Chemical Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Civil Engineering 
+                                                                                           Electrical Engineering
+
+13067     Mehmud Cheema         823                155                    63.99            Automotive Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Civil Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Electrical Engineering 
+                                                                                           Chemical Engineering
+
+13068     Esra Bilgic         1024                289                    86.83             Biomedical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Civil Engineering
+                                                                                           Chemical Engineering 
+                                                                                           Mechanical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Envoirmental Engineering
+
+13069     Engin Altan         943                193                    74.48              Electrical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Civil Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Envoirmental Engineering
+
+13070     Ali Ahmed         958                244                    79.26                Chemical Engineering
+                                                                                           Civil Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Biomedical Engineering 
+                                                                                           Electrical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Envoirmental Engineering
+ 
+13071     Aslam Shahid     	1001              120                72.7      
+											   Civil   Engineering
+											   Mechanical Engineering
+											   Biomedical Engineering
+										           Automotive Engineering 
+											   Chemical Engineering
+											   Electrical Engineering
+											   Environmental Engineering
+
+
+13072     Ahmad Waqas       776                 245                67.75    
+                                                                                           Mechanical Engineering
+											   Civil Engineering
+											   BiomedicaL Engineering
+											   Automotive Engineering
+											   Chemical Engineering
+											   Electrical Engineering 
+                                                                                           Environmental Engineering
+
+
+13073    Shahid noman        885		        324 		          80.61
+                                                                                           Biomedical Engineering
+                                                                                           Automotive Engineering
+                                                                                           Chemical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Environmental Engineering
+                                                                                           Civil Engineering
+
+
+13074    Haseeb Ali           1020                 259				84.46
+                                                                                          Electrical Engineering
+                                                                                          Biomedical Engineering
+                                                                                          Automotive Engineering
+                                                                                          Chemical Engineering
+                                                                                          Mechanical Engineering
+                                                                                          Civil Engineering
+                                                                                          Environmental Engineering
+13075      Noman Afzal         1011                  98               71.6863
+
+                                                                                          Environmental Engineering
+                                                                                          Biomedical Engineering
+                                                                                          Mechanical Engineering
+									                  Civil Engineering
+										          Automotive Engineering
+											  Chemical Engineering
+											  Electrical Engineering
+
+
+13076   Jawad Afzal              937                145               70.50    
+
+											 Automotive  Engineering       
+											 Electrical Engineering
+										         Biomedical Engineering
+											 Civil Engineering
+											 Chemical Engineering
+											 Mechanical Engineering
+											 Environmental Engineering
+
+
+13077     Eimen Jawad            997                 227              80.470
+
+											 Biomedical Engineering
+											 Civil Engineering
+											 Environmental Engineering
+											 Mechanical Engineering
+											 Automotive Engineering
+											 Electrical Engineering
+											 Chemical Engineering
+
+
+
+
+13078    Fatima Jawad             1044             145                 77.311
+
+											 Mechanical Engineering
+											 Biomedical Engineering
+											 Chemical Engineering
+											 Civil Engineering
+											 Automotive Engineering
+											 Electrical Engineering
+											 Environmental Engineering
+
+
+
+13079      Wahab Waqas 			1029       	143                    76.206
+   
+											 Chemical Engineering 
+						                                         Mechanical Engineering
+                                                                                         Civil Engineering
+                                                                                         Automotive Engineering
+                                                                                         Biomedical Engineering
+                                                                                         Environmental Engineering
+                                                                                         Electrical Engineering
+
+
+13080     Hassan Waqas          976                   223                   78.83        Environmental Engineering                    
+											 Mechanical   Engineering
+											Biomedical Engineering
+											Chemical Engineering
+											Civil Engineering
+												Automotive Engineering 
+											Electrical Engineering
+
+
+13081    Muneeb Ahsan            1009 			     324                  88.50		Chemical Engineering
+												Automotive Engineering
+												Biomedical Engineering
+												Mechanical Engineering
+												Civil Engineering
+												Electrical Engineering
+												Environmental Engineering
+
+
+13082    Hussnain Amjad            1022               178                  78.386		Civil Engineering
+												Automotive Engineering
+												Mechanical Engineering
+												Environmental Engineering
+												Chemical  Engineering
+												Biomedical Engineering
+												Electrical Engineering
+13083    Jmeel Ali               887                   189                70.62			Automotive Engineering 
+												Mechanical Engineering 
+												Biomedical Engineering
+												Civil Engineering 
+												Electrical Engineering
+												Environmental Engineering
+												Chemical Engineering 
+
+13084    Anas Ali                1011                     333                89.3111		Electrical Engineering
+												Biomedical Engineering
+												Civil Engineering
+												Mechanical Engineering 
+												Automotive Engineering
+												Chemical Engineering 
+												Environmental Engineering  
+
+
+13085    Usman Ali                999                         321            87.64		Biomedical Engineering
+												Automotive Engineering
+												Electrical Engineering
+												Chemical Engineering
+												Mechanical Engineering
+												Civil Engineering
+												Environmental Engineering
+
+13086      Talha Anjum         768                 189                    63.04            Chemical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Civil Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Envoirmental Engineering
+
+13087      Tom Cruise          908                 178                    71.13            Mechanical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Civil Engineering
+                                                                                           Chemical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Electrical Engineering
+ 
+13088      Laila Sultan        1078                320                    92.6             Chemical Engineering
+                                                                                           Civil Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Envoirmental Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           
+
+13089      Aslahan Khatoon             970                 279                    82.65     Biomedical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Civil Engineering 
+                                                                                           Envoirmental Engineering
+
+13090      Noor Fatimah        1016                210                    80.40            Electrical Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Mechanical Engineering
+										           Chemical Engineering
+                                                                                           Civil Engineering 
+                                                                                           Envoirmental Engineering
+                                                                                           Automotive Engineering 
+                                                                                           
+13091      Mohammad Salah      876                 166                    68.19            Civil Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Mechanical Engineering
+                                                                                           Envoirmental Engineering
+
+13092      John Cena           893                 166                    69.27            Electrical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Civil Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Automotive Engineering
+
+13093      Ethan Hunt          745                 110                    55.65            Mechanical Engineering
+                                                                                           Electrical Engineering
+											   Civil Engineering
+                                                                                           Chemical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                                                     
+13094      Virgil Van      945                 148                    71.23                Biomedical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+										           Automotive Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Civil Engineering
+                                                                                           Envoirmental Engineering
+
+13095      Sara Khan           990                 276                    83.7             Civil Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Automotive Engineering
+
+13096      Binte Hawa          877                 160                    67.80           
+                                                                                           Chemical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Civil Engineering 
+                                                                                           Biomedical Engineering
+                                                                                           Electrical Engineering
+                                                                                           Automotive Engineering 
+                                                                                           
+13097      Brett Lee           911                 178                    71.32            Automotive Engineering
+                                                                                           Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Mechanical Engineering 
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+
+13098      Imad Wasim          766                 177                    62.02            Electrical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Civil Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Envoirmental Engineering
+                                                                                           Automotive Engineering
+
+ 
+
+13099      Kurduglu Awais            1004                230                    81.14       Automotive Engineering               
+                                                                                           Civil Engineering
+                                                                                           Electrical Engineering
+                                                                                           Mechanical Engineering
+                                                                                           Chemical Engineering
+                                                                                           Biomedical Engineering
+                                                                                           Envoirmental Engineering
+
+13100      Khadim Rizvi        930                 251                    78.007           Biomedical Engineering           
+                                                                                           Electrical Engineering 
+                                                                                           Mechanical Engineering
+                                                                                           Civil Engineering
+                                                                                           Chemical Engineering 
+                                                                                           Envoirmental Engineering
+                                                                                           Automotive Engineering
+
+                                                                                                                                                                                                                
